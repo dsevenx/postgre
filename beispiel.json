@@ -1,0 +1,6 @@
+{
+	"clusterdb" : "test1",
+	"iddb"      : "iddb1",
+	"suchfilterdb" : "nix",
+	"datendb" : "<test1>XX</test1>"
+}

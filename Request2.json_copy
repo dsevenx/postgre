@@ -1,0 +1,8 @@
+http://localhost:8080/api/db/getid
+
+{
+	"clusterdb" : "test2",
+	"iddb"      : "ID1",
+	"suchfilterdb" : "nix",
+	"datendb" : "<test1>XX2</test1>"
+}
